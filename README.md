@@ -1,2 +1,2 @@
 # DeepML-Code-Challenges
-Repository with my solutions for the Deep ML Code Challengesa available at https://www.deep-ml.com/.
+Repository with my solutions for the Deep ML Code Challenges available at https://www.deep-ml.com/.
